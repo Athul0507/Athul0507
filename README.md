@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Athul I Kumar.. I am 19 years old and am currently a 2nd year engineering student. 
-- 👀 I’m interested in web development and would love to contribute to open source projects
-- 🌱 I’m currently learning React JS and Node JS frameworks
+- 👋 Hi, I’m Athul I Kumar.. I am a 21 year old full stack engineer @AthenaHealth  
+- 🌱 I’m currently learning SpringBoot and React
 - 📫 You can reach me on instagram @athulikumar
 
 <!---
